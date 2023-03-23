@@ -1,0 +1,29 @@
+div{
+    width: 200px;
+    height: 100px;
+    text-align: center; /*start, center, end*/
+    background-color: gold;
+    margin-bottom: 10px; /* left, top, bottom, right*/
+    padding-top: 40px; /* left, top, bottom, right*/
+}
+.div_solid{
+    border: 5px solid black;
+}
+.div_double{
+    border: 10px double black;
+}
+.div_dashed{
+    border: 5px dashed black;
+}
+.div_dotted{
+    border: 5px dotted black;
+}
+.div_ease{
+    border: 15px outset black;
+}
+.div_all{
+    border-top: 10px solid black;
+    border-left: 5px double black;
+    border-bottom: 5px dashed black;
+    border-right: 5px dotted black;
+}

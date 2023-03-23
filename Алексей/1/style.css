@@ -1,0 +1,21 @@
+h1{
+    color: yellow;
+    font-style: italic;
+}
+h4{
+    color: aqua;
+}
+img{
+    width: 400px;
+    height:500px;
+}
+p{
+    color: khaki;
+    background-color: black;
+    font-style: bold;
+    font-size: 24px;
+    text-decoration: underline; /*none - убирает нижнее подчеркивание*/
+}
+div{
+    color: blue;
+}
